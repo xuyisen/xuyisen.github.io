@@ -9,51 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **[November 21 - November 25, 2019]** I attended the National Software Application Conference (NASAC 2019) held in Hangzhou, China.
+* **[October 27 - October31, 2019]** I attended the 11th Asia-Pacific Symposium on Internetware (Internetware 2019) held in Fukuoka, Japan.
+* **[September 2, 2019]** [Paper: Writing Tests for This Higher-Order Function First: Automatically Identifying Future Callings to Assist Testers](http://xuyisen.github.io/files/paper34.pdf) got accepted to [Internetware 2019](https://internetware2019.github.io/#program).
+* **[August 2, 2019]** [Paper: Mining the Use of Higher-Order Functions: An Exploratory Study on Scala Programs.](http://xuyisen.github.io/files/paper34.pdf) got accepted to [NASAC 2019](http://nasac2019.zju.edu.cn/).
+* **[July 15 - July 19, 2019]** I attended the ACM SIGSOFT International Symposium on Software Testing and Analysis(ISSTA 2019) held in Beijing, China.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
