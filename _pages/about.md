@@ -21,7 +21,6 @@ Publications
 * Yuhang Li, Shi Ying, Xiangyang Jia, **Yisen Xu**, Lili Zhao, Guoli Cheng, Bingming Wang, Jifeng Xuan. "EH-Recommender: Recommending Exception Handling Strategies Based on Program Context". Proceedings of the 23rd IEEE International Conference on Engineering of Complex Computer Systems (ICECCS 2018), Melbourne, Australia, December 12-14, 2018.
 
 Awards & Honors
-
 ===============
 
 * National Scholarship, China, 2021
