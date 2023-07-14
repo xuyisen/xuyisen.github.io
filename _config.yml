@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Yisen Xu"
   avatar           : "profile.png"
-  bio              : "Software engineer @ Alibaba Group"
+  bio              : "Software Engineer @ Alibaba Group"
   location         : "Hangzhou, China"
   employer         : "Alibaba Group"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Xv2J5bMAAAAJ"
   email            : "xuyisen@whu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  cstar            : "http://cstar.whu.edu.cn/en/index.html"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,18 +104,20 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "xuyisen"
+  twitter          : # "xuyisen"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  dblp             : "https://dblp.org/pid/232/8066.html?q=Yisen%20xu"
+  
 
 
 # Reading Files
