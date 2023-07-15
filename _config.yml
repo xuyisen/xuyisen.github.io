@@ -89,8 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Xv2J5bMAAAAJ"
   email            : "xuyisen@whu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  cstar            : "http://cstar.whu.edu.cn/en/index.html"
-  uri              :
+  uri              : "http://cstar.whu.edu.cn/en/index.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -116,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp.org/pid/232/8066.html?q=Yisen%20xu"
+  
   
 
 
