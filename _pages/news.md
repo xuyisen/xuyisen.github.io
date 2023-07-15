@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-* **[November 30, 2020]** [Paper: Mining the use of higher-order functions](http://xuyisen.github.io/files/EMSE_publication-Yisen_Xu.pdf) got accepted for [JCST 2020](https://www.springer.com/journal/11390).
+* **[November 30, 2020]** [Paper: Automatically Identifying Calling-Prone Higher-Order Functions of Scala Programs to Assist Testers](http://xuyisen.github.io/files/JCST_publication-Yisen_Xu.pdf) got accepted for [JCST 2020](https://www.springer.com/journal/11390).
 * **[September 4, 2020]** [Paper: Mining the use of higher-order functions](http://xuyisen.github.io/files/EMSE_publication-Yisen_Xu.pdf) got accepted for [EMSE 2020](https://www.springer.com/journal/10664).
 * **[November 21 - November 25, 2019]** I attended the National Software Application Conference (NASAC 2019) held in Hangzhou, China.
 * **[October 27 - October31, 2019]** I attended the 11th Asia-Pacific Symposium on Internetware (Internetware 2019) held in Fukuoka, Japan.
