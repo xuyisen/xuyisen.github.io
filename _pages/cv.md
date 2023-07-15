@@ -32,6 +32,7 @@ Experience
 
 Projects
 =========
+
 * Study of Higher-order Functions | Scalameta, SemanticDB, Weka, AST Parser     Sept. 2019 – Oct. 2021
   * Usage analysis and test optimization of higher-order functions in Scala programs
   * Two papers were published. One paper that was published on Empirical Software Engineering, the other was published on Journal of Computer Science and technology
@@ -45,12 +46,14 @@ Projects
 
 Languages
 =========
+
 * Mandarin Chinese (Native)
 * English (IELTS 6.5)
 
 
 Technical Skills
 =========
+
 * Solid Java programming abilities, able to tackle problems using a variety of design patterns and data structures
 * Competent in additional programming languages
 * Solid prior experience with distributed systems
@@ -58,6 +61,7 @@ Technical Skills
 
 Communication Skills
 =========
+
 * Team-worker with strong team sense
 * Always ready to acquire new knowledge
 * Rapidly absorbing new information and enthused about cutting-edge technologies
