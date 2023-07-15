@@ -1,5 +1,3 @@
-
-
 ---
 layout: archive
 title: "CV"
