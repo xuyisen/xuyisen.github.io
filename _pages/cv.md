@@ -31,12 +31,12 @@ Experience
 Projects
 =========
 
-* Study of Higher-order Functions | Scalameta, SemanticDB, Weka, AST Parser     Sept. 2019 – Oct. 2021
+* Study of Higher-order Functions -- Scalameta, SemanticDB, Weka, AST Parser   --  Sept. 2019 – Oct. 2021
   * Usage analysis and test optimization of higher-order functions in Scala programs
   * Two papers were published. One paper that was published on Empirical Software Engineering, the other was published on Journal of Computer Science and technology
   * Learned about machine learning and testing in Scala and how to use tools like Weka, Scalameta, Matlab, SemanticDB
 
-* Clone detection on large Scala Codebases | Clone detection, AutoEncoder       Jan. 2018 – Nov. 2018
+* Clone detection on large Scala Codebases -- Clone detection, AutoEncoder   --    Jan. 2018 – Nov. 2018
   * Part of the work with UCL
   * Proposed an automated tool whose job is to detect code clones in the Scala programs. This tool first extracts features, such as identifier, Abstract Syntax Tree, Control Flow Graph, and bytecode to represent code segments, it then leverages deep learning model (AutoEncoder) to detect identical or similar code segments.
   * The tool was adopted by Morgan Stanley and implemented into their trading system
