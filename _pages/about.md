@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Yisen Xu and I am currently working as a software developer at Alibaba Group in China. I completed my master's degree at the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](https://www.whu.edu.cn/), where I was advised by Dr.[Jifeng Xuan](http://www.jifeng-xuan.com/). I also obtained my bachelor's degree in Software Engineering from the same university in 2018.
+Hi! My name is Yisen Xu and I am currently working as a software developer at Alibaba Group in China. I completed my master's degree at the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](https://www.whu.edu.cn/), where I was advised by Dr.[Jifeng Xuan](http://www.jifeng-xuan.com/). I also obtained my bachelor's degree in Software Engineering from the same university in 2019.
 
 During my academic journey, I developed a strong passion for research in the fields of software testing, machine learning, and deep learning. I am particularly interested in exploring innovative approaches to improve software quality and efficiency through the integration of these areas.
 
@@ -21,7 +21,8 @@ Publications
 * Yuhang Li, Shi Ying, Xiangyang Jia, **Yisen Xu**, Lili Zhao, Guoli Cheng, Bingming Wang, Jifeng Xuan. "EH-Recommender: Recommending Exception Handling Strategies Based on Program Context". Proceedings of the 23rd IEEE International Conference on Engineering of Complex Computer Systems (ICECCS 2018), Melbourne, Australia, December 12-14, 2018.
 
 News
-===============
+====
+
 * **[November 30, 2020]** [Paper: Automatically Identifying Calling-Prone Higher-Order Functions of Scala Programs to Assist Testers](https://xuyisen.github.io/files/JCST_Publication-Yisen_Xu.pdf) got accepted for [JCST 2020](https://www.springer.com/journal/11390).
 * **[September 4, 2020]** [Paper: Mining the use of higher-order functions](https://xuyisen.github.io/files/EMSE_Publication-Yisen_Xu.pdf) got accepted for [EMSE 2020](https://www.springer.com/journal/10664).
 * **[November 21 - November 25, 2019]** I attended the National Software Application Conference (NASAC 2019) held in Hangzhou, China.
