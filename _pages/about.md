@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! My name is Yisen Xu and I am currently working as a software developer at Alibaba Group in China. I completed my master's degree at the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](https://www.whu.edu.cn/), where I was advised by Dr.[Jifeng Xuan](http://www.jifeng-xuan.com/). I also obtained my bachelor's degree in Software Engineering from the same university in 2019.
 
-During my academic journey, I developed a strong passion for research in the fields of software testing, machine learning, and deep learning. I am particularly interested in exploring innovative approaches to improve software quality and efficiency through the integration of these areas.
+During my academic journey, I developed a strong passion for research in the fields of software engineering, machine learning, deep learning, and mining software repositories. I am particularly interested in exploring innovative approaches to improve software quality and efficiency through the integration of these areas.
 
 Publications
 ============
