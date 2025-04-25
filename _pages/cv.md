@@ -10,7 +10,8 @@ redirect_from:
 
 Education
 =========
-
+* Phd Student - Software Engineering (2024-)
+  * Concordia University, Canada
 * Master Student - Computer Science (2019-2022)
   * Wuhan University, China
 * Bachelor Student of Engineering(B.Eng) - Software Engineering  (2015-2019)
@@ -20,7 +21,7 @@ Education
 Experience
 =========
 
-* Java Engineer - Enterprise Intelligence Division (2022-present)
+* Java Engineer - Enterprise Intelligence Division (2022-2024)
   * Alibaba, China
 
 * Intern - Cainiao NetWork (2021.05-2021.08)
@@ -30,6 +31,12 @@ Experience
 
 Projects
 =========
+
+* Agentawre Framework for Refactoring -- LLMs, Refactoring, RefactoringMiner, Langgraph -- Sept. 2024 - Mar. 2025
+  * Proposed an end-to-end LLM agent-based solution for automated method-level refactoring. 
+  * Using Contextual RAG, Multi-Agent Workflow, and Self-Reflexion to enhance the effectiveness of the approach.
+  * One short paper was accepted by the ICSE 2025 Student Research Competition [MUARF: Leveraging Multi-Agent Workflows for Automated Code Refactoring](https://conf.researchr.org/details/icse-2025/icse-2025-SRC/14/MUARF-Leveraging-Multi-Agent-Workflows-for-Automated-Code-Refactoring).
+  * One full paper was submitted to one conference and is under review.
 
 * Study of Higher-order Functions -- Scalameta, SemanticDB, Weka, AST Parser   --  Sept. 2019 – Oct. 2021
   * Usage analysis and test optimization of higher-order functions in Scala programs
@@ -51,11 +58,10 @@ Languages
 
 Technical Skills
 =========
-
+* Proficient in most prompt engineering techniques used in LLMs, with practical experience in leveraging LLMs for software engineering tasks.
 * Solid Java programming abilities, able to tackle problems using a variety of design patterns and data structures
 * Competent in additional programming languages
 * Solid prior experience with distributed systems
-* Knowledge of AI-related areas like machine learning and data mining
 
 Communication Skills
 =========

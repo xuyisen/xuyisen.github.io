@@ -7,9 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Yisen Xu and I am currently working as a software developer at Alibaba Group in China. I completed my master's degree at the [School of Computer Science](http://cs.whu.edu.cn/) at [Wuhan University](https://www.whu.edu.cn/), where I was advised by Dr.[Jifeng Xuan](http://www.jifeng-xuan.com/). I also obtained my bachelor's degree in Software Engineering from the same university in 2019.
+## About Me
 
-During my academic journey, I developed a strong passion for research in the fields of software engineering, machine learning, deep learning, and mining software repositories. I am particularly interested in exploring innovative approaches to improve software quality and efficiency through the integration of these areas.
+Hi! My name is **Yisen Xu**, and I am currently pursuing a **Ph.D. in Software Engineering** at [Concordia University](https://www.concordia.ca/) in Canada. I am fortunate to be supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) and [Dr. Jinqiu Yang](https://jinqiuyang.github.io/). My research interests focus on **Large Language Models for Software Engineering (LLM4SE)**, with an emphasis on **automated code refactoring**, **software quality enhancement**, and **performance-aware code optimization**.
+
+I received both my **M.Sc.** and **B.Eng.** degrees in **Software Engineering** from [Wuhan University](https://www.whu.edu.cn/), where I completed my master’s thesis under the supervision of [Dr. Jifeng Xuan](http://www.jifeng-xuan.com/).
+
+Prior to starting my Ph.D., I worked as a **software developer at Alibaba Group** in China, where I gained hands-on experience in **large-scale software development** and **system reliability engineering**.
+
+I am passionate about bridging the gap between machine intelligence and software engineering practice. My goal is to design intelligent tools that assist developers in writing better, faster, and more reliable code by leveraging the power of LLMs and software analytics.
 
 Publications
 ============
@@ -22,7 +28,7 @@ Publications
 
 News
 ====
-
+* **[December 23, 2024]** [Paper: MUARF: Leveraging Multi-Agent Workflows for Automated Code Refactoring](https://conf.researchr.org/details/icse-2025/icse-2025-SRC/14/MUARF-Leveraging-Multi-Agent-Workflows-for-Automated-Code-Refactoring) got accepted for [ICSE 2025 Student Research Competition](https://conf.researchr.org/details/icse-2025/icse-2025-SRC/14/MUARF-Leveraging-Multi-Agent-Workflows-for-Automated-Code-Refactoring).
 * **[November 30, 2020]** [Paper: Automatically Identifying Calling-Prone Higher-Order Functions of Scala Programs to Assist Testers](https://xuyisen.github.io/files/JCST_Publication-Yisen_Xu.pdf) got accepted for [JCST 2020](https://www.springer.com/journal/11390).
 * **[September 4, 2020]** [Paper: Mining the use of higher-order functions](https://xuyisen.github.io/files/EMSE_Publication-Yisen_Xu.pdf) got accepted for [EMSE 2020](https://www.springer.com/journal/10664).
 * **[November 21 - November 25, 2019]** I attended the National Software Application Conference (NASAC 2019) held in Hangzhou, China.
@@ -33,7 +39,9 @@ News
 
 Awards & Honors
 ===============
-
+* Conference Travel Support – Gina Cody School of Engineering and Computer Science, Concordia University, 2025
+* Concordia Split Graduate Fellowship GCS, Concordia University, 2024
+* Concordia International Tuition Award of Excellence, Concordia University, 2024
 * National Scholarship, China, 2021
 * First Prize Scholarship, Wuhan University, 2021
 * First Prize Scholarship, Wuhan University, 2020

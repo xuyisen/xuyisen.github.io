@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-
+* **[December 23, 2024]** [Paper: MUARF: Leveraging Multi-Agent Workflows for Automated Code Refactoring](https://conf.researchr.org/details/icse-2025/icse-2025-SRC/14/MUARF-Leveraging-Multi-Agent-Workflows-for-Automated-Code-Refactoring) got accepted for [ICSE 2025 Student Research Competition](https://conf.researchr.org/details/icse-2025/icse-2025-SRC/14/MUARF-Leveraging-Multi-Agent-Workflows-for-Automated-Code-Refactoring).
 * **[November 30, 2020]** [Paper: Automatically Identifying Calling-Prone Higher-Order Functions of Scala Programs to Assist Testers](http://xuyisen.github.io/files/JCST_publication-Yisen_Xu.pdf) got accepted for [JCST 2020](https://www.springer.com/journal/11390).
 * **[September 4, 2020]** [Paper: Mining the use of higher-order functions](http://xuyisen.github.io/files/EMSE_publication-Yisen_Xu.pdf) got accepted for [EMSE 2020](https://www.springer.com/journal/10664).
 * **[November 21 - November 25, 2019]** I attended the National Software Application Conference (NASAC 2019) held in Hangzhou, China.
