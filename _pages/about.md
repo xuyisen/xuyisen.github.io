@@ -9,13 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-Hi! My name is **Yisen Xu**, and I am currently pursuing a **Ph.D. in Software Engineering** at [Concordia University](https://www.concordia.ca/) in Canada. I am fortunate to be supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) and [Dr. Jinqiu Yang](https://jinqiuyang.github.io/). My research interests focus on **Large Language Models for Software Engineering (LLM4SE)**, with an emphasis on **automated code refactoring**, **software quality enhancement**, and **performance-aware code optimization**.
-
-I received both my **M.Sc.** and **B.Eng.** degrees in **Software Engineering** from [Wuhan University](https://www.whu.edu.cn/), where I completed my master’s thesis under the supervision of [Dr. Jifeng Xuan](http://www.jifeng-xuan.com/).
-
-Prior to starting my Ph.D., I worked as a **software developer at Alibaba Group** in China, where I gained hands-on experience in **large-scale software development** and **system reliability engineering**.
-
-I am passionate about bridging the gap between machine intelligence and software engineering practice. My goal is to design intelligent tools that assist developers in writing better, faster, and more reliable code by leveraging the power of LLMs and software analytics.
+Hi! My name is **Yisen Xu**, and I am currently pursuing a **Ph.D. in Software Engineering** at [Concordia University](https://www.concordia.ca/) in Canada. I am fortunate to be supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) and [Dr. Jinqiu Yang](https://jinqiuyang.github.io/). My research interests focus on **Large Language Models for Software Engineering (LLM4SE)**, with an emphasis on **automated code refactoring**, **software quality enhancement**, and **performance-aware code optimization**. I received both my **M.Sc.** and **B.Eng.** degrees in **Software Engineering** from [Wuhan University](https://www.whu.edu.cn/), where I completed my master’s thesis under the supervision of [Dr. Jifeng Xuan](http://www.jifeng-xuan.com/). Prior to starting my Ph.D., I worked as a **software developer at Alibaba Group** in China, where I gained hands-on experience in **large-scale software development** and **system reliability engineering**. I am passionate about bridging the gap between machine intelligence and software engineering practice. My goal is to design intelligent tools that assist developers in writing better, faster, and more reliable code by leveraging the power of LLMs and software analytics.
 
 Publications
 ============
