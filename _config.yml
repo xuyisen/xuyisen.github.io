@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Yisen Xu"
-  avatar           : "profile.png"
-  bio              : "Software Engineer @ Alibaba Group"
-  location         : "Hangzhou, China"
-  employer         : "Alibaba Group"
+  avatar           : "profile.jpg" # filename of fallback avatar image placed in /images/, e.g. "profile.jpg"
+  bio              : "PhD Candidate in Software Engineering"
+  location         : "Montreal, Canada"
+  employer         : "SPEAR Lab"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Xv2J5bMAAAAJ"
-  email            : "xuyisen@whu.edu.cn"
+  email            : "yisen.xu@mail.concordia.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "http://cstar.whu.edu.cn/en/index.html"
+  uri              : "https://petertsehsun.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
